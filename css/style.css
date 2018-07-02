@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+*{
+    box-sizing: border-box;
+}
+body {
+    
+ font-family: "roboto", sans-serif;
+ font-weight: 300;
+ font-size: 16px;
+ color: #333;
+ margin: 0px;
+}
